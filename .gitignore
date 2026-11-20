@@ -1,0 +1,19 @@
+# Local credentials (copy include/secrets.example.h)
+include/secrets.h
+
+# PlatformIO
+.pio/
+
+# Editors
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+
+# Desktop preview
+build/
+preview.png
+
+# OS
+.DS_Store
+Thumbs.db
